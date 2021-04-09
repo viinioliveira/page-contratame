@@ -1,0 +1,4 @@
+cores nav-bar: HEX : #8e7dc2
+RGB : 142, 125, 194
+HSL  : 254, 36%, 62%
+

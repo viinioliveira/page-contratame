@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    background-color: #8e7dc2;
+    justify-content: space-between;
+    align-content: center;
+    color: white;
+    width: 100%;
+}
+
+.container h2{
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.container img{
+    width: 25px;
+    height: 25px;
+    align-self: center;
+    margin-right: 30px;
+}
+
+img:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
