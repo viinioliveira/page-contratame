@@ -1,6 +1,6 @@
 # page-contratame
 
-# how to start project
+<h3>how to start project</h3>
 
  - install node.js <a href="https://nodejs.org/en/download/"></a>
  - install angular cli **npm install -g @angular/cli**
